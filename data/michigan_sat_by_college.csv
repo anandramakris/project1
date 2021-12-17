@@ -1,0 +1,11 @@
+,college,test_optional,num_applicants,accept_rate,sat_25,sat_75,state
+0,University of Michigan,Yes,64972,0.22899999999999998,1340.0,1530.0,Michigan
+1,Hillsdale College,No,2208,0.36,1275.0,1465.0,Michigan
+2,Albion College,Yes,4043,0.688,990.0,1200.0,Michigan
+3,Central Michigan University,Yes,16411,0.6950000000000001,990.0,1200.0,Michigan
+4,Michigan State University,Yes,44322,0.711,1100.0,1320.0,Michigan
+5,Wayne State University,Yes,15716,0.731,1010.0,1230.0,Michigan
+6,Eastern Michigan University,Yes*,14323,0.741,970.0,1190.0,Michigan
+7,Michigan Technological University,Yes,5978,0.743,1170.0,1370.0,Michigan
+8,Kalamazoo College,Yes,3576,0.76,1170.0,1370.0,Michigan
+9,Hope College,Yes,3748,0.8570000000000001,1130.0,1330.0,Michigan
